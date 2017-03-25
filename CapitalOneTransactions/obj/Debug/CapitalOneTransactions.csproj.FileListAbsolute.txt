@@ -1,0 +1,6 @@
+D:\Coding\C Sharp\CapitalOneTransactions\CapitalOneTransactions\bin\Debug\CapitalOneTransactions.exe.config
+D:\Coding\C Sharp\CapitalOneTransactions\CapitalOneTransactions\obj\Debug\CapitalOneTransactions.csprojResolveAssemblyReference.cache
+D:\Coding\C Sharp\CapitalOneTransactions\CapitalOneTransactions\bin\Debug\CapitalOneTransactions.exe
+D:\Coding\C Sharp\CapitalOneTransactions\CapitalOneTransactions\bin\Debug\CapitalOneTransactions.pdb
+D:\Coding\C Sharp\CapitalOneTransactions\CapitalOneTransactions\obj\Debug\CapitalOneTransactions.exe
+D:\Coding\C Sharp\CapitalOneTransactions\CapitalOneTransactions\obj\Debug\CapitalOneTransactions.pdb
